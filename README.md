@@ -16,3 +16,11 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+
+  ### Release V 0.0.1올리면서
+
+  1. user create --> MnemonicSlugs.generate_slug(2)
+  2. so... ecto database(postgres, mysql, mssql) login form will be made next time
+  3. Version Conflict : Phoenix Version 1.6.16 and Elixir Version 12 for_form/3 is changed <.form>
+  4. Video and PNG, etc so media file chatting and Slack or Teams function will be made
